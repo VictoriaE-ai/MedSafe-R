@@ -1,0 +1,5 @@
+pm_date_source,devices,overdue
+Assumed: commissioning date (no PM record),11,4
+Inventory register (later than log),611,164
+Inventory register (no PM in log),28,10
+Maintenance log,550,75

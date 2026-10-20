@@ -1,0 +1,43 @@
+{
+  "source_sha256": "ad1900871ce8ebf583f330e12209de397487ac188f52dc95288be166120e78f9",
+  "seed": 20261020,
+  "python": "3.12.14",
+  "pandas": "2.2.3",
+  "numpy": "2.3.5",
+  "sklearn": "1.8.0",
+  "scipy": "1.17.0",
+  "features": [
+    "device_age_years",
+    "utilisation_90d_pct",
+    "pm_overdue_days",
+    "corrective_repairs_90d",
+    "corrective_repairs_365d",
+    "repeat_failures_90d",
+    "downtime_90d_hours",
+    "avg_repair_hours",
+    "no_fault_found_365d",
+    "safety_events_365d",
+    "high_potential_harm_events_365d",
+    "alarm_count_30d",
+    "error_code_count_30d",
+    "calibration_drift_latest_pct",
+    "network_disconnects_30d",
+    "replacement_cost_gbp",
+    "corrective_repairs_total",
+    "mtbf_measured_days",
+    "days_since_last_repair",
+    "device_type",
+    "clinical_criticality",
+    "site",
+    "support_status"
+  ],
+  "numeric_missing_strategy": "Training-fold median + missing indicators; scaling fitted within fold",
+  "categorical_strategy": "Training-fold most frequent + one-hot; unknown ignored",
+  "model_settings": {
+    "logistic": "C=1, max_iter=1500, no class weighting",
+    "forest": "160 trees, min_samples_leaf=8, max_features=sqrt, no class weighting"
+  },
+  "cv": "5 stratified folds x 3 repeats, no tuning; per-device mean OOF prediction",
+  "ci": "1000 stratified device bootstraps conditional on fixed mean OOF scores",
+  "top120": "Stable descending score order; tied scores use workbook row order. No top120 metric for non-ranking baseline."
+}

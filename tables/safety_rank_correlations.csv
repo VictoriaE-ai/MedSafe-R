@@ -1,0 +1,7 @@
+indicator,rho
+corrective_repairs_365d,0.1570365291015148
+avg_repair_hours,0.17726627599961176
+pm_overdue_days,0.009573449177134624
+device_age_years,-0.0014975468888158666
+calibration_drift_latest_pct,0.051915726214039185
+alarm_count_30d,0.011754493245414019

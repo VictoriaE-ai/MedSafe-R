@@ -1,0 +1,781 @@
+device_id,repairs,repair_downtime_hours,repeat_jobs_within90,device_type,department
+DEV-00001,1,7.6,0,Ultrasound,Paediatrics
+DEV-00002,3,63.8,2,Enteral Feeding Pump,Community Equipment
+DEV-00003,1,8.6,0,Infusion Pump,ICU
+DEV-00006,1,25.6,0,Ultrasound,ICU
+DEV-00007,3,38.1,1,Ventilator,Emergency Department
+DEV-00009,2,13.5,0,Patient Monitor,Community Equipment
+DEV-00010,1,18.5,0,Suction Pump,Community Equipment
+DEV-00011,3,32.7,1,Ultrasound,Surgical Ward
+DEV-00012,2,29.9,0,Ultrasound,Medical Ward
+DEV-00013,2,29.4,0,Syringe Pump,Surgical Ward
+DEV-00015,1,6.1,0,Ventilator,Surgical Ward
+DEV-00016,1,21.0,0,Infusion Pump,Emergency Department
+DEV-00017,2,25.299999999999997,0,Defibrillator,Maternity
+DEV-00018,2,25.0,0,Infusion Pump,Surgical Ward
+DEV-00020,2,34.8,0,Infusion Pump,Maternity
+DEV-00023,1,10.1,0,Infusion Pump,Operating Theatres
+DEV-00025,1,9.5,0,ECG Machine,Diagnostics
+DEV-00026,1,18.4,0,Enteral Feeding Pump,Outpatients
+DEV-00027,3,26.1,1,Anaesthetic Machine,Diagnostics
+DEV-00028,3,40.8,0,Infusion Pump,Outpatients
+DEV-00029,1,20.5,0,Defibrillator,Emergency Department
+DEV-00031,2,16.3,0,Infusion Pump,Maternity
+DEV-00032,2,24.5,0,Ultrasound,Emergency Department
+DEV-00034,1,7.0,0,Suction Pump,Outpatients
+DEV-00035,1,2.3,0,ECG Machine,ICU
+DEV-00036,3,46.1,0,Defibrillator,Diagnostics
+DEV-00037,2,32.4,0,Neonatal Incubator,Surgical Ward
+DEV-00038,1,1.7,0,Defibrillator,Maternity
+DEV-00040,1,29.1,0,ECG Machine,Operating Theatres
+DEV-00041,1,8.6,0,Ventilator,Emergency Department
+DEV-00042,2,15.100000000000001,0,Patient Monitor,Operating Theatres
+DEV-00045,3,33.4,0,Vital Signs Monitor,Outpatients
+DEV-00046,2,22.6,1,Vital Signs Monitor,ICU
+DEV-00048,2,58.8,0,Infusion Pump,Outpatients
+DEV-00050,1,10.7,0,Syringe Pump,Maternity
+DEV-00051,1,11.1,0,Enteral Feeding Pump,Medical Ward
+DEV-00054,1,10.1,0,Infusion Pump,Surgical Ward
+DEV-00055,1,5.2,0,Syringe Pump,Community Equipment
+DEV-00056,1,0.5,0,Ultrasound,Community Equipment
+DEV-00057,2,6.6,0,Neonatal Incubator,Outpatients
+DEV-00058,2,6.9,0,Vital Signs Monitor,Surgical Ward
+DEV-00059,2,43.400000000000006,0,Vital Signs Monitor,Maternity
+DEV-00061,1,12.0,0,Neonatal Incubator,Medical Ward
+DEV-00062,2,34.0,0,Syringe Pump,Emergency Department
+DEV-00063,2,40.2,0,Vital Signs Monitor,Outpatients
+DEV-00064,4,67.7,0,Ventilator,ICU
+DEV-00065,1,8.6,0,Ventilator,Community Equipment
+DEV-00067,2,37.0,0,Neonatal Incubator,Operating Theatres
+DEV-00068,1,11.0,0,Infusion Pump,Maternity
+DEV-00069,3,28.6,1,Defibrillator,Community Equipment
+DEV-00071,2,16.4,0,Suction Pump,Medical Ward
+DEV-00073,1,21.3,0,Neonatal Incubator,Emergency Department
+DEV-00074,1,4.5,0,ECG Machine,Medical Ward
+DEV-00076,2,27.6,1,Neonatal Incubator,Surgical Ward
+DEV-00080,2,25.700000000000003,0,Infusion Pump,Paediatrics
+DEV-00082,1,15.3,0,Ultrasound,ICU
+DEV-00083,1,26.2,0,Ventilator,Paediatrics
+DEV-00084,1,27.1,0,Vital Signs Monitor,Paediatrics
+DEV-00086,1,10.8,0,Infusion Pump,Operating Theatres
+DEV-00087,2,29.299999999999997,0,Suction Pump,Medical Ward
+DEV-00089,1,11.1,0,Infusion Pump,Medical Ward
+DEV-00090,2,21.3,0,Infusion Pump,Emergency Department
+DEV-00091,3,39.5,0,Syringe Pump,Medical Ward
+DEV-00092,2,33.1,0,ECG Machine,Diagnostics
+DEV-00093,1,1.3,0,Ultrasound,Paediatrics
+DEV-00097,2,33.9,0,Suction Pump,Diagnostics
+DEV-00100,1,1.4,0,Syringe Pump,Operating Theatres
+DEV-00101,1,11.7,0,ECG Machine,Medical Ward
+DEV-00102,1,8.4,0,Syringe Pump,Surgical Ward
+DEV-00103,2,8.0,0,Defibrillator,Operating Theatres
+DEV-00104,1,12.6,0,Infusion Pump,Paediatrics
+DEV-00105,2,18.9,0,Patient Monitor,Medical Ward
+DEV-00106,2,9.8,0,Patient Monitor,Medical Ward
+DEV-00107,1,13.8,0,Ultrasound,Maternity
+DEV-00108,1,27.3,0,Patient Monitor,Maternity
+DEV-00109,3,56.5,0,Defibrillator,Maternity
+DEV-00111,3,51.5,0,Vital Signs Monitor,Emergency Department
+DEV-00112,1,32.7,0,Syringe Pump,Surgical Ward
+DEV-00113,2,33.9,0,Infusion Pump,ICU
+DEV-00119,3,13.7,1,Patient Monitor,Medical Ward
+DEV-00120,2,24.9,0,Enteral Feeding Pump,ICU
+DEV-00121,1,7.9,0,Syringe Pump,Medical Ward
+DEV-00123,1,9.3,0,Infusion Pump,ICU
+DEV-00125,3,32.9,0,Infusion Pump,Operating Theatres
+DEV-00126,2,10.4,0,Ventilator,Community Equipment
+DEV-00127,3,47.2,1,Suction Pump,Paediatrics
+DEV-00129,1,3.8,0,Infusion Pump,Operating Theatres
+DEV-00130,2,25.1,1,Ultrasound,Community Equipment
+DEV-00132,1,13.3,0,Enteral Feeding Pump,Diagnostics
+DEV-00133,2,8.200000000000001,0,Enteral Feeding Pump,Maternity
+DEV-00134,3,37.9,1,Patient Monitor,Medical Ward
+DEV-00135,2,11.200000000000001,1,Ventilator,Emergency Department
+DEV-00136,1,27.4,0,Defibrillator,Outpatients
+DEV-00138,2,17.9,1,Infusion Pump,ICU
+DEV-00140,1,5.8,0,Anaesthetic Machine,Paediatrics
+DEV-00142,2,18.9,0,Syringe Pump,Community Equipment
+DEV-00143,1,6.8,0,Defibrillator,Emergency Department
+DEV-00144,4,32.699999999999996,2,Vital Signs Monitor,Paediatrics
+DEV-00145,1,11.7,0,Syringe Pump,Community Equipment
+DEV-00146,3,24.6,1,Suction Pump,Maternity
+DEV-00147,1,9.3,0,Infusion Pump,ICU
+DEV-00148,1,25.0,0,Infusion Pump,Paediatrics
+DEV-00150,2,36.4,0,Infusion Pump,Diagnostics
+DEV-00151,2,17.4,1,Suction Pump,Community Equipment
+DEV-00152,2,43.6,0,Vital Signs Monitor,Diagnostics
+DEV-00155,1,10.1,0,Vital Signs Monitor,Diagnostics
+DEV-00156,1,2.4,0,Enteral Feeding Pump,Surgical Ward
+DEV-00157,1,11.6,0,Ventilator,Paediatrics
+DEV-00158,1,24.4,0,Ventilator,Paediatrics
+DEV-00159,2,30.8,0,Neonatal Incubator,Diagnostics
+DEV-00160,1,2.1,0,ECG Machine,Diagnostics
+DEV-00161,1,2.9,0,Syringe Pump,Emergency Department
+DEV-00162,3,46.400000000000006,1,Neonatal Incubator,Outpatients
+DEV-00164,2,36.8,1,Suction Pump,Outpatients
+DEV-00166,3,30.0,0,Ventilator,Maternity
+DEV-00170,2,24.5,0,ECG Machine,Surgical Ward
+DEV-00172,2,7.6,0,Infusion Pump,Maternity
+DEV-00175,1,10.2,0,Infusion Pump,Operating Theatres
+DEV-00176,1,11.3,0,Neonatal Incubator,Surgical Ward
+DEV-00177,3,24.5,1,Ventilator,Medical Ward
+DEV-00178,3,24.3,0,Ventilator,Maternity
+DEV-00179,2,23.0,0,Neonatal Incubator,Diagnostics
+DEV-00181,1,29.8,0,Suction Pump,ICU
+DEV-00184,1,4.2,0,Patient Monitor,Diagnostics
+DEV-00186,3,33.1,0,Ventilator,Paediatrics
+DEV-00188,1,2.4,0,Patient Monitor,Surgical Ward
+DEV-00189,2,22.1,1,Vital Signs Monitor,Medical Ward
+DEV-00190,2,25.700000000000003,0,Enteral Feeding Pump,ICU
+DEV-00191,3,38.8,0,Vital Signs Monitor,Surgical Ward
+DEV-00192,2,13.3,0,Suction Pump,Paediatrics
+DEV-00193,2,37.1,0,Vital Signs Monitor,Surgical Ward
+DEV-00196,3,39.7,0,Syringe Pump,Outpatients
+DEV-00199,1,13.7,0,Patient Monitor,Emergency Department
+DEV-00200,1,9.5,0,Anaesthetic Machine,Maternity
+DEV-00201,2,15.6,0,Enteral Feeding Pump,Community Equipment
+DEV-00202,1,11.9,0,Neonatal Incubator,Outpatients
+DEV-00204,2,29.9,1,Syringe Pump,Surgical Ward
+DEV-00205,1,16.9,0,Patient Monitor,Operating Theatres
+DEV-00206,1,9.6,0,Ultrasound,Community Equipment
+DEV-00207,3,31.5,1,Vital Signs Monitor,Surgical Ward
+DEV-00208,3,40.0,0,Syringe Pump,Community Equipment
+DEV-00209,2,22.3,1,Infusion Pump,ICU
+DEV-00210,3,36.2,0,Vital Signs Monitor,Surgical Ward
+DEV-00211,1,9.8,0,Vital Signs Monitor,Community Equipment
+DEV-00212,1,16.0,0,Infusion Pump,Outpatients
+DEV-00213,2,17.5,0,Syringe Pump,ICU
+DEV-00215,1,4.7,0,Ventilator,Emergency Department
+DEV-00217,1,11.3,0,Ultrasound,Emergency Department
+DEV-00218,2,27.8,0,Ventilator,ICU
+DEV-00219,1,12.8,0,ECG Machine,Emergency Department
+DEV-00222,2,27.2,0,Vital Signs Monitor,Paediatrics
+DEV-00223,3,30.7,1,ECG Machine,Maternity
+DEV-00226,1,5.5,0,ECG Machine,Surgical Ward
+DEV-00228,3,42.1,1,Patient Monitor,ICU
+DEV-00229,3,42.900000000000006,0,Infusion Pump,Diagnostics
+DEV-00230,2,17.8,0,ECG Machine,Diagnostics
+DEV-00231,3,50.1,1,Ventilator,Surgical Ward
+DEV-00232,3,44.5,0,Infusion Pump,Emergency Department
+DEV-00234,3,47.7,0,Patient Monitor,Community Equipment
+DEV-00236,3,27.2,0,Patient Monitor,Surgical Ward
+DEV-00238,1,7.9,0,Syringe Pump,Paediatrics
+DEV-00239,1,13.0,0,Infusion Pump,Outpatients
+DEV-00240,1,9.4,0,Vital Signs Monitor,ICU
+DEV-00243,1,7.8,0,Neonatal Incubator,Medical Ward
+DEV-00244,2,27.799999999999997,0,ECG Machine,Paediatrics
+DEV-00245,2,17.6,0,Neonatal Incubator,Operating Theatres
+DEV-00248,1,12.3,0,Suction Pump,Surgical Ward
+DEV-00249,2,8.1,0,Enteral Feeding Pump,Surgical Ward
+DEV-00250,1,3.4,0,Defibrillator,Medical Ward
+DEV-00251,2,26.9,1,Ultrasound,Surgical Ward
+DEV-00252,2,29.9,0,Vital Signs Monitor,Medical Ward
+DEV-00253,2,37.2,1,Syringe Pump,Community Equipment
+DEV-00254,1,11.9,0,Ventilator,Surgical Ward
+DEV-00255,1,10.2,0,ECG Machine,Operating Theatres
+DEV-00256,1,10.2,0,Patient Monitor,Maternity
+DEV-00257,2,10.600000000000001,0,Infusion Pump,ICU
+DEV-00258,1,18.7,0,Ultrasound,Maternity
+DEV-00259,3,46.6,0,Ventilator,Emergency Department
+DEV-00260,1,4.5,0,Syringe Pump,Emergency Department
+DEV-00261,2,8.2,1,Patient Monitor,Community Equipment
+DEV-00262,1,6.6,0,Infusion Pump,ICU
+DEV-00264,2,13.0,0,Vital Signs Monitor,Operating Theatres
+DEV-00267,2,8.4,0,Defibrillator,Operating Theatres
+DEV-00268,2,25.2,0,Syringe Pump,Medical Ward
+DEV-00269,2,17.6,0,Patient Monitor,Emergency Department
+DEV-00270,1,0.5,0,ECG Machine,Paediatrics
+DEV-00271,1,8.5,0,Ultrasound,Outpatients
+DEV-00272,2,12.4,0,Enteral Feeding Pump,Paediatrics
+DEV-00273,2,15.3,1,Infusion Pump,Outpatients
+DEV-00276,1,8.6,0,Defibrillator,Community Equipment
+DEV-00277,2,28.6,0,Syringe Pump,Emergency Department
+DEV-00279,2,18.4,0,Infusion Pump,ICU
+DEV-00280,1,6.1,0,Syringe Pump,Operating Theatres
+DEV-00282,2,20.4,0,Syringe Pump,Surgical Ward
+DEV-00284,1,5.5,0,Patient Monitor,Outpatients
+DEV-00285,1,15.9,0,Suction Pump,Emergency Department
+DEV-00287,2,31.7,0,Ultrasound,Operating Theatres
+DEV-00288,1,5.2,0,Patient Monitor,Maternity
+DEV-00289,2,33.6,0,Enteral Feeding Pump,Paediatrics
+DEV-00290,4,41.0,1,Patient Monitor,Emergency Department
+DEV-00295,3,40.4,1,Neonatal Incubator,Surgical Ward
+DEV-00298,2,12.8,1,Anaesthetic Machine,Outpatients
+DEV-00299,2,22.8,0,Ultrasound,Paediatrics
+DEV-00300,2,27.6,0,Defibrillator,Maternity
+DEV-00301,1,5.6,0,Neonatal Incubator,Operating Theatres
+DEV-00302,2,18.6,0,Suction Pump,Diagnostics
+DEV-00303,2,12.8,0,Infusion Pump,Community Equipment
+DEV-00304,1,0.6,0,Ultrasound,Emergency Department
+DEV-00305,1,5.4,0,Anaesthetic Machine,Community Equipment
+DEV-00306,3,50.4,0,Ventilator,Emergency Department
+DEV-00307,1,9.3,0,Neonatal Incubator,Medical Ward
+DEV-00308,1,18.2,0,ECG Machine,Community Equipment
+DEV-00309,2,35.8,0,Suction Pump,Paediatrics
+DEV-00311,1,8.6,0,Ultrasound,Community Equipment
+DEV-00312,1,8.9,0,Patient Monitor,ICU
+DEV-00314,1,9.1,0,Infusion Pump,Outpatients
+DEV-00315,1,2.2,0,Infusion Pump,Community Equipment
+DEV-00316,1,12.5,0,ECG Machine,ICU
+DEV-00317,1,9.5,0,Syringe Pump,Operating Theatres
+DEV-00319,2,35.5,0,Ultrasound,Diagnostics
+DEV-00320,1,31.4,0,Ultrasound,Outpatients
+DEV-00321,2,55.0,0,ECG Machine,Surgical Ward
+DEV-00323,1,8.4,0,Defibrillator,Operating Theatres
+DEV-00328,1,3.2,0,Syringe Pump,ICU
+DEV-00329,2,27.5,0,Enteral Feeding Pump,Medical Ward
+DEV-00330,2,23.599999999999998,0,Patient Monitor,Community Equipment
+DEV-00331,1,0.6,0,Defibrillator,Surgical Ward
+DEV-00332,1,12.7,0,Ventilator,Paediatrics
+DEV-00333,1,9.5,0,Enteral Feeding Pump,Medical Ward
+DEV-00334,3,39.1,1,Vital Signs Monitor,Maternity
+DEV-00337,2,35.9,0,Infusion Pump,Emergency Department
+DEV-00339,1,15.6,0,Infusion Pump,Medical Ward
+DEV-00340,2,11.1,0,ECG Machine,Diagnostics
+DEV-00341,1,8.4,0,Suction Pump,Outpatients
+DEV-00345,3,62.3,0,Vital Signs Monitor,Medical Ward
+DEV-00346,1,6.0,0,Anaesthetic Machine,Diagnostics
+DEV-00347,3,42.3,0,Infusion Pump,Community Equipment
+DEV-00349,2,25.1,1,Vital Signs Monitor,Paediatrics
+DEV-00350,2,35.8,0,Syringe Pump,Maternity
+DEV-00352,2,40.5,0,Defibrillator,Operating Theatres
+DEV-00353,1,1.4,0,ECG Machine,ICU
+DEV-00355,2,23.799999999999997,0,Ventilator,Emergency Department
+DEV-00356,2,19.3,0,Ventilator,Surgical Ward
+DEV-00358,1,8.2,0,Infusion Pump,Paediatrics
+DEV-00360,2,15.899999999999999,0,ECG Machine,Outpatients
+DEV-00361,4,50.0,1,Enteral Feeding Pump,Operating Theatres
+DEV-00363,2,8.2,0,Defibrillator,Outpatients
+DEV-00367,3,33.699999999999996,0,Ventilator,Outpatients
+DEV-00368,1,0.5,0,Neonatal Incubator,ICU
+DEV-00369,2,29.4,0,Enteral Feeding Pump,Medical Ward
+DEV-00370,2,34.9,0,Vital Signs Monitor,Emergency Department
+DEV-00375,2,14.8,0,Patient Monitor,Outpatients
+DEV-00376,1,4.5,0,Vital Signs Monitor,Maternity
+DEV-00383,3,42.6,0,Enteral Feeding Pump,Medical Ward
+DEV-00384,1,1.9,0,ECG Machine,Operating Theatres
+DEV-00385,1,6.4,0,Infusion Pump,Emergency Department
+DEV-00386,1,7.7,0,Suction Pump,Maternity
+DEV-00388,3,29.6,0,Ultrasound,Outpatients
+DEV-00389,2,47.8,1,Vital Signs Monitor,Paediatrics
+DEV-00393,1,9.2,0,ECG Machine,Maternity
+DEV-00394,2,12.3,1,Syringe Pump,Maternity
+DEV-00395,1,1.1,0,Patient Monitor,Medical Ward
+DEV-00396,1,9.1,0,Suction Pump,Community Equipment
+DEV-00397,3,51.3,1,Syringe Pump,Operating Theatres
+DEV-00399,1,13.1,0,Infusion Pump,Community Equipment
+DEV-00400,1,5.7,0,Neonatal Incubator,Maternity
+DEV-00401,2,29.6,0,ECG Machine,Medical Ward
+DEV-00402,1,13.7,0,Ultrasound,Community Equipment
+DEV-00404,1,4.3,0,Vital Signs Monitor,Medical Ward
+DEV-00405,4,38.900000000000006,0,Suction Pump,Operating Theatres
+DEV-00406,1,1.8,0,Defibrillator,Diagnostics
+DEV-00408,2,10.0,0,Anaesthetic Machine,Diagnostics
+DEV-00409,1,25.0,0,Syringe Pump,Outpatients
+DEV-00411,1,18.1,0,Defibrillator,Diagnostics
+DEV-00413,1,19.7,0,Vital Signs Monitor,Maternity
+DEV-00414,2,28.2,0,Neonatal Incubator,Medical Ward
+DEV-00415,1,16.5,0,Enteral Feeding Pump,Paediatrics
+DEV-00417,1,7.7,0,Syringe Pump,Surgical Ward
+DEV-00419,1,22.8,0,ECG Machine,Community Equipment
+DEV-00420,2,22.7,0,Ventilator,Community Equipment
+DEV-00421,2,23.8,0,Syringe Pump,Maternity
+DEV-00423,1,13.9,0,Infusion Pump,Community Equipment
+DEV-00425,2,18.2,0,Patient Monitor,Diagnostics
+DEV-00427,3,43.8,0,Infusion Pump,Emergency Department
+DEV-00428,2,16.5,0,Infusion Pump,Emergency Department
+DEV-00430,2,38.5,0,Defibrillator,Outpatients
+DEV-00431,1,4.1,0,Enteral Feeding Pump,Emergency Department
+DEV-00432,2,16.3,0,ECG Machine,ICU
+DEV-00433,2,28.4,0,Infusion Pump,Emergency Department
+DEV-00435,2,35.1,0,Vital Signs Monitor,Surgical Ward
+DEV-00436,1,16.3,0,Patient Monitor,Operating Theatres
+DEV-00437,1,14.9,0,Infusion Pump,Operating Theatres
+DEV-00438,2,1.0,0,Infusion Pump,Diagnostics
+DEV-00439,1,12.5,0,Defibrillator,ICU
+DEV-00440,2,23.4,0,Infusion Pump,Outpatients
+DEV-00441,2,24.6,0,Ultrasound,Diagnostics
+DEV-00442,1,3.9,0,Syringe Pump,Paediatrics
+DEV-00443,3,41.5,0,Syringe Pump,ICU
+DEV-00444,2,26.6,0,Syringe Pump,Medical Ward
+DEV-00447,2,7.0,0,Neonatal Incubator,Community Equipment
+DEV-00449,2,23.5,1,Patient Monitor,Operating Theatres
+DEV-00451,3,27.4,1,Infusion Pump,Paediatrics
+DEV-00452,1,6.8,0,Anaesthetic Machine,Community Equipment
+DEV-00453,1,8.9,0,Neonatal Incubator,Paediatrics
+DEV-00455,3,23.7,1,Patient Monitor,Paediatrics
+DEV-00456,3,33.5,1,Defibrillator,Surgical Ward
+DEV-00458,1,28.9,0,Vital Signs Monitor,Diagnostics
+DEV-00459,3,17.6,0,Infusion Pump,Maternity
+DEV-00460,2,31.2,0,Infusion Pump,Maternity
+DEV-00461,1,7.5,0,ECG Machine,Emergency Department
+DEV-00462,1,12.9,0,Vital Signs Monitor,Surgical Ward
+DEV-00464,1,12.5,0,Suction Pump,Maternity
+DEV-00466,2,35.5,0,Vital Signs Monitor,Maternity
+DEV-00467,1,3.2,0,Ventilator,Surgical Ward
+DEV-00469,3,30.2,1,Infusion Pump,Paediatrics
+DEV-00470,1,1.8,0,Infusion Pump,Maternity
+DEV-00473,1,26.3,0,Vital Signs Monitor,Operating Theatres
+DEV-00474,1,18.4,0,Syringe Pump,Diagnostics
+DEV-00478,1,10.5,0,Syringe Pump,Community Equipment
+DEV-00479,3,45.599999999999994,0,Suction Pump,Maternity
+DEV-00480,2,22.1,0,Suction Pump,ICU
+DEV-00482,2,15.700000000000001,0,Suction Pump,ICU
+DEV-00483,1,10.2,0,Ultrasound,Maternity
+DEV-00484,2,39.1,0,Syringe Pump,ICU
+DEV-00485,1,7.0,0,Patient Monitor,Outpatients
+DEV-00486,1,30.5,0,Infusion Pump,Maternity
+DEV-00489,1,11.5,0,Syringe Pump,Medical Ward
+DEV-00490,1,24.2,0,Infusion Pump,Operating Theatres
+DEV-00491,1,17.1,0,Patient Monitor,Medical Ward
+DEV-00492,1,11.0,0,Syringe Pump,Paediatrics
+DEV-00493,1,6.1,0,Infusion Pump,Medical Ward
+DEV-00495,2,30.4,0,Vital Signs Monitor,Medical Ward
+DEV-00496,1,24.0,0,Patient Monitor,ICU
+DEV-00500,4,41.0,1,Infusion Pump,ICU
+DEV-00501,3,53.4,1,Defibrillator,Maternity
+DEV-00502,1,20.1,0,Ventilator,Outpatients
+DEV-00504,1,19.4,0,Syringe Pump,Paediatrics
+DEV-00505,1,9.9,0,Suction Pump,Surgical Ward
+DEV-00506,5,29.799999999999997,2,Vital Signs Monitor,Outpatients
+DEV-00507,1,23.7,0,Ventilator,Diagnostics
+DEV-00508,3,31.0,1,Patient Monitor,Maternity
+DEV-00509,1,10.1,0,Defibrillator,Community Equipment
+DEV-00510,1,26.7,0,Ventilator,Paediatrics
+DEV-00512,1,13.7,0,Ultrasound,Operating Theatres
+DEV-00513,2,8.7,0,Syringe Pump,Surgical Ward
+DEV-00514,3,29.700000000000003,1,Patient Monitor,Diagnostics
+DEV-00515,1,5.3,0,ECG Machine,Operating Theatres
+DEV-00516,2,25.700000000000003,0,Syringe Pump,Paediatrics
+DEV-00517,1,3.7,0,Infusion Pump,ICU
+DEV-00520,1,11.7,0,Syringe Pump,ICU
+DEV-00522,1,8.0,0,Infusion Pump,Surgical Ward
+DEV-00523,1,16.6,0,Infusion Pump,Outpatients
+DEV-00524,2,26.8,1,Patient Monitor,Surgical Ward
+DEV-00525,3,24.2,0,Ventilator,Emergency Department
+DEV-00526,1,18.1,0,Enteral Feeding Pump,Maternity
+DEV-00528,2,13.399999999999999,1,Syringe Pump,Maternity
+DEV-00529,2,26.4,0,Ventilator,Outpatients
+DEV-00530,1,8.7,0,Syringe Pump,Diagnostics
+DEV-00531,1,2.7,0,Vital Signs Monitor,Emergency Department
+DEV-00533,1,25.0,0,Infusion Pump,Operating Theatres
+DEV-00536,2,43.5,0,Anaesthetic Machine,Maternity
+DEV-00538,2,22.8,0,Enteral Feeding Pump,Operating Theatres
+DEV-00539,2,29.2,0,Anaesthetic Machine,Diagnostics
+DEV-00540,1,20.5,0,Anaesthetic Machine,Medical Ward
+DEV-00541,1,15.5,0,Ultrasound,Emergency Department
+DEV-00542,3,35.5,1,Ventilator,Operating Theatres
+DEV-00544,2,9.4,1,Infusion Pump,Emergency Department
+DEV-00547,1,7.3,0,Ventilator,Paediatrics
+DEV-00548,1,11.1,0,ECG Machine,ICU
+DEV-00549,1,12.5,0,Vital Signs Monitor,Community Equipment
+DEV-00550,1,21.2,0,Patient Monitor,Surgical Ward
+DEV-00552,2,21.1,0,Ultrasound,Paediatrics
+DEV-00553,1,15.7,0,Defibrillator,Maternity
+DEV-00555,2,7.5,0,Vital Signs Monitor,Outpatients
+DEV-00558,2,13.6,1,Enteral Feeding Pump,Operating Theatres
+DEV-00559,1,8.9,0,ECG Machine,Emergency Department
+DEV-00560,1,4.2,0,Anaesthetic Machine,Outpatients
+DEV-00562,1,16.4,0,Infusion Pump,ICU
+DEV-00564,1,9.7,0,Ultrasound,ICU
+DEV-00565,2,24.7,1,ECG Machine,Diagnostics
+DEV-00568,1,6.2,0,Patient Monitor,Emergency Department
+DEV-00571,2,34.4,0,Neonatal Incubator,Diagnostics
+DEV-00572,3,34.099999999999994,0,Defibrillator,Community Equipment
+DEV-00573,1,5.2,0,Enteral Feeding Pump,Operating Theatres
+DEV-00574,1,0.5,0,Ventilator,Maternity
+DEV-00575,2,18.6,0,Ventilator,ICU
+DEV-00576,3,22.7,0,Infusion Pump,Emergency Department
+DEV-00578,2,26.4,0,Vital Signs Monitor,Maternity
+DEV-00579,2,20.5,0,Ultrasound,Surgical Ward
+DEV-00581,1,20.9,0,Syringe Pump,Medical Ward
+DEV-00583,2,20.9,0,Ventilator,Emergency Department
+DEV-00586,1,19.9,0,Neonatal Incubator,Maternity
+DEV-00587,1,8.0,0,ECG Machine,Community Equipment
+DEV-00588,2,6.8,0,Infusion Pump,Maternity
+DEV-00589,2,21.9,0,Ultrasound,Surgical Ward
+DEV-00591,3,35.3,2,Infusion Pump,Operating Theatres
+DEV-00595,2,26.3,0,Suction Pump,Diagnostics
+DEV-00596,2,16.6,0,Suction Pump,Diagnostics
+DEV-00598,1,10.0,0,Vital Signs Monitor,Surgical Ward
+DEV-00600,2,27.4,0,Enteral Feeding Pump,Diagnostics
+DEV-00601,1,8.1,0,Enteral Feeding Pump,Outpatients
+DEV-00602,2,16.700000000000003,0,Infusion Pump,ICU
+DEV-00604,3,44.5,1,Patient Monitor,Operating Theatres
+DEV-00606,1,8.2,0,Suction Pump,Emergency Department
+DEV-00607,1,12.2,0,Vital Signs Monitor,Surgical Ward
+DEV-00608,4,45.800000000000004,0,Syringe Pump,Medical Ward
+DEV-00609,1,5.9,0,Suction Pump,Paediatrics
+DEV-00611,1,0.5,0,Syringe Pump,Maternity
+DEV-00612,1,15.0,0,ECG Machine,Maternity
+DEV-00613,2,10.1,0,Vital Signs Monitor,Operating Theatres
+DEV-00614,2,4.6,1,Infusion Pump,Emergency Department
+DEV-00616,1,9.9,0,Suction Pump,Diagnostics
+DEV-00617,2,38.8,0,Suction Pump,Maternity
+DEV-00618,1,13.4,0,Ventilator,Surgical Ward
+DEV-00621,2,11.0,1,Suction Pump,Maternity
+DEV-00622,1,13.9,0,Ultrasound,Surgical Ward
+DEV-00623,1,23.1,0,Vital Signs Monitor,Medical Ward
+DEV-00624,3,18.2,1,Vital Signs Monitor,Outpatients
+DEV-00625,2,8.7,1,Patient Monitor,Emergency Department
+DEV-00626,1,21.6,0,Enteral Feeding Pump,Outpatients
+DEV-00627,1,13.3,0,Vital Signs Monitor,Surgical Ward
+DEV-00628,3,41.0,1,Enteral Feeding Pump,Paediatrics
+DEV-00629,1,23.0,0,Vital Signs Monitor,Outpatients
+DEV-00630,1,6.7,0,Syringe Pump,Surgical Ward
+DEV-00634,1,15.9,0,Infusion Pump,Emergency Department
+DEV-00635,2,21.099999999999998,0,Enteral Feeding Pump,Community Equipment
+DEV-00636,2,17.7,0,ECG Machine,Diagnostics
+DEV-00639,2,47.8,1,Enteral Feeding Pump,Medical Ward
+DEV-00641,2,35.7,1,Ultrasound,Outpatients
+DEV-00644,3,75.5,0,Defibrillator,ICU
+DEV-00645,3,32.4,1,ECG Machine,Community Equipment
+DEV-00646,4,20.1,0,Enteral Feeding Pump,ICU
+DEV-00647,2,22.200000000000003,0,Vital Signs Monitor,Paediatrics
+DEV-00649,3,35.6,0,Defibrillator,Surgical Ward
+DEV-00650,1,18.1,0,Vital Signs Monitor,Emergency Department
+DEV-00651,2,15.6,0,Infusion Pump,Maternity
+DEV-00652,3,70.8,0,Syringe Pump,Diagnostics
+DEV-00654,1,11.8,0,Defibrillator,Outpatients
+DEV-00655,1,31.3,0,Infusion Pump,Community Equipment
+DEV-00656,1,20.0,0,Infusion Pump,Emergency Department
+DEV-00657,1,31.1,0,Suction Pump,ICU
+DEV-00658,1,13.3,0,Vital Signs Monitor,Outpatients
+DEV-00666,1,5.4,0,Defibrillator,Paediatrics
+DEV-00667,2,14.299999999999999,1,Infusion Pump,Community Equipment
+DEV-00668,1,13.8,0,Enteral Feeding Pump,Maternity
+DEV-00669,2,25.099999999999998,0,Vital Signs Monitor,Surgical Ward
+DEV-00670,2,11.5,0,Syringe Pump,Outpatients
+DEV-00671,1,23.1,0,ECG Machine,Surgical Ward
+DEV-00672,2,14.799999999999999,0,ECG Machine,Surgical Ward
+DEV-00674,2,10.0,0,Ventilator,ICU
+DEV-00675,1,3.1,0,Syringe Pump,Diagnostics
+DEV-00676,1,13.0,0,Infusion Pump,Operating Theatres
+DEV-00677,2,36.400000000000006,0,Patient Monitor,Medical Ward
+DEV-00681,1,8.6,0,Ventilator,ICU
+DEV-00682,1,25.6,0,Neonatal Incubator,Outpatients
+DEV-00683,1,26.7,0,Enteral Feeding Pump,Community Equipment
+DEV-00684,2,30.299999999999997,1,Ventilator,Paediatrics
+DEV-00686,1,6.1,0,Vital Signs Monitor,Maternity
+DEV-00687,1,35.6,0,Enteral Feeding Pump,Operating Theatres
+DEV-00688,1,12.1,0,Vital Signs Monitor,Medical Ward
+DEV-00689,1,7.9,0,Vital Signs Monitor,Paediatrics
+DEV-00693,3,39.7,1,Defibrillator,Operating Theatres
+DEV-00694,1,0.5,0,ECG Machine,Paediatrics
+DEV-00695,3,6.4,0,Infusion Pump,ICU
+DEV-00696,1,8.9,0,Anaesthetic Machine,Operating Theatres
+DEV-00697,3,23.5,0,Infusion Pump,Emergency Department
+DEV-00698,3,22.7,0,Syringe Pump,Maternity
+DEV-00699,2,13.799999999999999,0,Enteral Feeding Pump,Operating Theatres
+DEV-00700,1,8.3,0,Ventilator,Maternity
+DEV-00702,1,4.6,0,Infusion Pump,Paediatrics
+DEV-00703,2,32.7,1,Infusion Pump,Maternity
+DEV-00706,2,29.799999999999997,0,Enteral Feeding Pump,Operating Theatres
+DEV-00708,1,17.3,0,Suction Pump,Medical Ward
+DEV-00709,3,31.6,0,ECG Machine,Medical Ward
+DEV-00710,2,15.1,0,Syringe Pump,Diagnostics
+DEV-00711,2,20.0,0,ECG Machine,Operating Theatres
+DEV-00712,2,19.7,0,Patient Monitor,ICU
+DEV-00713,1,15.6,0,Suction Pump,Diagnostics
+DEV-00717,2,17.8,0,Vital Signs Monitor,Outpatients
+DEV-00720,4,46.1,0,Syringe Pump,ICU
+DEV-00721,2,19.8,0,ECG Machine,ICU
+DEV-00722,1,9.8,0,Patient Monitor,ICU
+DEV-00725,2,23.8,0,Defibrillator,Outpatients
+DEV-00726,3,23.3,0,Patient Monitor,Operating Theatres
+DEV-00727,1,3.4,0,Infusion Pump,Paediatrics
+DEV-00729,4,39.4,1,Enteral Feeding Pump,Community Equipment
+DEV-00730,1,9.1,0,Syringe Pump,Maternity
+DEV-00731,3,31.0,2,Syringe Pump,Maternity
+DEV-00732,1,13.4,0,Anaesthetic Machine,Medical Ward
+DEV-00735,3,13.0,0,Defibrillator,Surgical Ward
+DEV-00736,1,20.5,0,ECG Machine,Maternity
+DEV-00738,2,31.099999999999998,0,Neonatal Incubator,Emergency Department
+DEV-00739,1,4.6,0,Patient Monitor,Maternity
+DEV-00740,1,0.5,0,Vital Signs Monitor,Paediatrics
+DEV-00741,1,5.4,0,Infusion Pump,ICU
+DEV-00742,1,10.6,0,Neonatal Incubator,Maternity
+DEV-00744,3,26.200000000000003,1,Enteral Feeding Pump,Maternity
+DEV-00745,2,42.900000000000006,1,Anaesthetic Machine,Emergency Department
+DEV-00746,1,8.2,0,Infusion Pump,Emergency Department
+DEV-00747,3,27.9,1,Ultrasound,Community Equipment
+DEV-00748,2,21.5,1,Infusion Pump,Paediatrics
+DEV-00749,2,32.099999999999994,0,Vital Signs Monitor,ICU
+DEV-00750,1,16.1,0,Patient Monitor,Emergency Department
+DEV-00751,1,5.8,0,Infusion Pump,Community Equipment
+DEV-00753,1,8.4,0,Infusion Pump,Outpatients
+DEV-00754,1,15.4,0,Suction Pump,Community Equipment
+DEV-00756,2,34.9,0,Ultrasound,Emergency Department
+DEV-00759,2,35.3,0,Syringe Pump,Medical Ward
+DEV-00760,3,32.0,0,Infusion Pump,Emergency Department
+DEV-00761,1,19.7,0,Enteral Feeding Pump,Emergency Department
+DEV-00762,3,36.1,0,Syringe Pump,Community Equipment
+DEV-00763,2,14.8,0,ECG Machine,Surgical Ward
+DEV-00765,1,5.7,0,Infusion Pump,ICU
+DEV-00766,1,5.2,0,Ventilator,Diagnostics
+DEV-00767,1,7.2,0,Infusion Pump,Community Equipment
+DEV-00770,1,7.5,0,Patient Monitor,ICU
+DEV-00772,3,31.9,1,Suction Pump,Emergency Department
+DEV-00773,2,38.3,0,Patient Monitor,Maternity
+DEV-00774,2,12.2,0,Defibrillator,Surgical Ward
+DEV-00775,1,6.7,0,Suction Pump,Community Equipment
+DEV-00777,3,24.1,0,Syringe Pump,Maternity
+DEV-00778,1,15.3,0,Anaesthetic Machine,Community Equipment
+DEV-00779,1,2.6,0,Enteral Feeding Pump,Diagnostics
+DEV-00780,2,17.5,0,Vital Signs Monitor,ICU
+DEV-00781,1,13.7,0,Patient Monitor,Surgical Ward
+DEV-00782,2,35.6,0,Enteral Feeding Pump,Paediatrics
+DEV-00783,1,15.0,0,Suction Pump,ICU
+DEV-00784,1,0.8,0,Suction Pump,Operating Theatres
+DEV-00786,3,34.0,0,Vital Signs Monitor,Surgical Ward
+DEV-00795,1,9.6,0,Syringe Pump,Surgical Ward
+DEV-00796,2,26.2,1,Vital Signs Monitor,Maternity
+DEV-00798,1,18.7,0,Infusion Pump,ICU
+DEV-00799,1,30.0,0,ECG Machine,Diagnostics
+DEV-00801,2,9.7,0,Ventilator,Emergency Department
+DEV-00802,2,17.0,0,Ultrasound,Emergency Department
+DEV-00803,3,16.4,0,Vital Signs Monitor,Outpatients
+DEV-00804,1,7.8,0,Infusion Pump,Maternity
+DEV-00808,1,10.4,0,ECG Machine,Community Equipment
+DEV-00809,2,19.2,0,Infusion Pump,Maternity
+DEV-00810,1,15.5,0,Patient Monitor,Outpatients
+DEV-00811,1,9.1,0,Ultrasound,Operating Theatres
+DEV-00813,2,4.1000000000000005,0,Ultrasound,ICU
+DEV-00815,1,21.6,0,Anaesthetic Machine,ICU
+DEV-00816,1,14.4,0,Suction Pump,Community Equipment
+DEV-00821,1,27.9,0,Defibrillator,Diagnostics
+DEV-00822,4,61.0,0,Enteral Feeding Pump,Community Equipment
+DEV-00824,1,11.8,0,ECG Machine,Operating Theatres
+DEV-00825,1,4.8,0,Enteral Feeding Pump,Medical Ward
+DEV-00827,1,26.0,0,Vital Signs Monitor,Medical Ward
+DEV-00831,2,8.3,0,Suction Pump,Diagnostics
+DEV-00835,1,26.4,0,Syringe Pump,Medical Ward
+DEV-00836,2,22.400000000000002,1,Neonatal Incubator,Paediatrics
+DEV-00839,2,33.900000000000006,0,Syringe Pump,Maternity
+DEV-00840,1,26.9,0,Infusion Pump,Operating Theatres
+DEV-00842,1,2.3,0,Ventilator,Community Equipment
+DEV-00844,2,24.5,0,Infusion Pump,Diagnostics
+DEV-00845,3,38.1,0,Patient Monitor,Medical Ward
+DEV-00846,1,27.2,0,Patient Monitor,Paediatrics
+DEV-00848,2,10.4,1,Vital Signs Monitor,Paediatrics
+DEV-00849,1,10.1,0,Defibrillator,Diagnostics
+DEV-00850,3,26.6,0,Patient Monitor,Outpatients
+DEV-00855,3,47.8,2,Enteral Feeding Pump,Medical Ward
+DEV-00857,4,45.800000000000004,2,Patient Monitor,Paediatrics
+DEV-00858,1,34.9,0,Vital Signs Monitor,Medical Ward
+DEV-00859,3,37.0,2,Patient Monitor,Operating Theatres
+DEV-00860,1,6.6,0,Anaesthetic Machine,Maternity
+DEV-00861,2,17.0,0,Vital Signs Monitor,Outpatients
+DEV-00863,2,24.5,1,ECG Machine,Community Equipment
+DEV-00866,1,15.3,0,Defibrillator,Paediatrics
+DEV-00867,2,20.4,0,ECG Machine,Outpatients
+DEV-00868,3,40.2,0,Anaesthetic Machine,Medical Ward
+DEV-00870,2,30.0,0,Syringe Pump,Emergency Department
+DEV-00871,1,9.9,0,Vital Signs Monitor,Operating Theatres
+DEV-00872,1,3.9,0,Defibrillator,Emergency Department
+DEV-00874,1,15.0,0,Infusion Pump,Community Equipment
+DEV-00875,1,20.9,0,Ventilator,Emergency Department
+DEV-00876,3,23.799999999999997,1,Ultrasound,ICU
+DEV-00877,2,10.799999999999999,0,Vital Signs Monitor,Surgical Ward
+DEV-00879,2,3.5,0,Syringe Pump,Outpatients
+DEV-00880,1,7.9,0,Defibrillator,Operating Theatres
+DEV-00881,3,51.3,0,Infusion Pump,Outpatients
+DEV-00882,1,7.6,0,Neonatal Incubator,Operating Theatres
+DEV-00883,2,13.600000000000001,0,Enteral Feeding Pump,Paediatrics
+DEV-00884,2,16.2,0,Infusion Pump,Emergency Department
+DEV-00886,1,27.7,0,Enteral Feeding Pump,Diagnostics
+DEV-00887,2,27.9,0,Neonatal Incubator,Medical Ward
+DEV-00888,2,38.3,0,Infusion Pump,Medical Ward
+DEV-00889,1,3.1,0,Patient Monitor,Community Equipment
+DEV-00890,4,28.9,1,Patient Monitor,Surgical Ward
+DEV-00893,2,26.8,0,Ventilator,Outpatients
+DEV-00897,1,4.2,0,Infusion Pump,Medical Ward
+DEV-00899,3,11.9,0,Vital Signs Monitor,Surgical Ward
+DEV-00900,2,14.0,0,Patient Monitor,Diagnostics
+DEV-00901,3,26.299999999999997,0,Ultrasound,ICU
+DEV-00902,3,24.9,1,Vital Signs Monitor,Diagnostics
+DEV-00905,2,9.7,0,Anaesthetic Machine,Operating Theatres
+DEV-00906,1,4.8,0,Anaesthetic Machine,Paediatrics
+DEV-00909,1,2.4,0,Syringe Pump,Community Equipment
+DEV-00910,1,4.4,0,Patient Monitor,Paediatrics
+DEV-00911,1,17.1,0,Defibrillator,Surgical Ward
+DEV-00913,3,61.9,1,Syringe Pump,Medical Ward
+DEV-00917,1,13.1,0,Vital Signs Monitor,ICU
+DEV-00919,2,24.6,0,ECG Machine,Paediatrics
+DEV-00921,2,41.5,0,Suction Pump,Maternity
+DEV-00922,2,11.1,0,Infusion Pump,Paediatrics
+DEV-00923,1,4.6,0,Infusion Pump,ICU
+DEV-00924,1,1.6,0,Syringe Pump,Operating Theatres
+DEV-00925,2,17.799999999999997,0,Infusion Pump,Surgical Ward
+DEV-00926,2,37.0,0,Ventilator,Surgical Ward
+DEV-00927,1,9.5,0,Neonatal Incubator,Community Equipment
+DEV-00929,3,34.3,0,Anaesthetic Machine,Outpatients
+DEV-00930,2,14.0,0,Suction Pump,Emergency Department
+DEV-00932,1,22.4,0,Infusion Pump,Medical Ward
+DEV-00933,1,2.4,0,Infusion Pump,Operating Theatres
+DEV-00935,1,5.7,0,Vital Signs Monitor,Operating Theatres
+DEV-00937,2,32.3,0,Infusion Pump,Medical Ward
+DEV-00938,2,19.3,0,Suction Pump,Paediatrics
+DEV-00939,2,40.0,0,Infusion Pump,Community Equipment
+DEV-00941,3,16.7,1,Patient Monitor,Surgical Ward
+DEV-00942,1,5.9,0,Infusion Pump,Maternity
+DEV-00943,1,8.2,0,Ventilator,Community Equipment
+DEV-00944,3,38.4,0,Infusion Pump,Maternity
+DEV-00946,3,40.1,1,Patient Monitor,ICU
+DEV-00950,1,2.0,0,Ultrasound,Community Equipment
+DEV-00952,3,30.9,0,Patient Monitor,ICU
+DEV-00953,1,28.0,0,Ultrasound,Surgical Ward
+DEV-00954,1,7.7,0,Infusion Pump,Surgical Ward
+DEV-00956,2,10.4,1,Ventilator,Community Equipment
+DEV-00957,2,27.8,0,Infusion Pump,Emergency Department
+DEV-00958,1,23.9,0,Enteral Feeding Pump,Outpatients
+DEV-00959,2,18.6,0,Vital Signs Monitor,Community Equipment
+DEV-00960,2,21.799999999999997,0,Infusion Pump,Outpatients
+DEV-00961,2,24.599999999999998,0,Infusion Pump,Diagnostics
+DEV-00962,3,16.4,0,Patient Monitor,Paediatrics
+DEV-00965,4,47.8,2,Vital Signs Monitor,ICU
+DEV-00966,1,2.0,0,Suction Pump,Operating Theatres
+DEV-00968,1,3.2,0,Vital Signs Monitor,ICU
+DEV-00969,1,6.1,0,Enteral Feeding Pump,Emergency Department
+DEV-00970,3,24.3,1,Anaesthetic Machine,Maternity
+DEV-00971,2,30.900000000000002,1,Syringe Pump,Surgical Ward
+DEV-00972,2,5.3,0,Vital Signs Monitor,Community Equipment
+DEV-00973,1,30.3,0,Ultrasound,Outpatients
+DEV-00974,2,26.400000000000002,0,Infusion Pump,Community Equipment
+DEV-00975,2,14.0,0,Anaesthetic Machine,Operating Theatres
+DEV-00976,1,1.8,0,Syringe Pump,Medical Ward
+DEV-00977,2,25.9,0,Vital Signs Monitor,Diagnostics
+DEV-00978,1,28.4,0,Neonatal Incubator,Outpatients
+DEV-00979,3,25.5,0,Infusion Pump,Medical Ward
+DEV-00982,1,4.1,0,Suction Pump,Paediatrics
+DEV-00983,1,28.1,0,Enteral Feeding Pump,Operating Theatres
+DEV-00984,1,17.3,0,Syringe Pump,Maternity
+DEV-00986,1,3.5,0,Infusion Pump,ICU
+DEV-00987,2,29.2,0,Enteral Feeding Pump,Community Equipment
+DEV-00991,2,25.700000000000003,0,Vital Signs Monitor,ICU
+DEV-00993,3,32.9,0,Suction Pump,Surgical Ward
+DEV-00994,1,13.6,0,Enteral Feeding Pump,Operating Theatres
+DEV-00995,1,6.1,0,Suction Pump,Maternity
+DEV-00996,1,5.7,0,Vital Signs Monitor,Paediatrics
+DEV-00999,1,5.9,0,Syringe Pump,Diagnostics
+DEV-01001,1,7.5,0,Neonatal Incubator,Maternity
+DEV-01003,1,21.3,0,Vital Signs Monitor,Diagnostics
+DEV-01005,4,9.0,1,Syringe Pump,Community Equipment
+DEV-01008,1,8.1,0,Patient Monitor,Outpatients
+DEV-01009,1,4.3,0,Vital Signs Monitor,Community Equipment
+DEV-01011,2,13.0,1,Infusion Pump,Medical Ward
+DEV-01012,2,15.3,1,Patient Monitor,Medical Ward
+DEV-01013,1,5.0,0,Ultrasound,Medical Ward
+DEV-01014,1,12.9,0,Enteral Feeding Pump,Diagnostics
+DEV-01016,2,16.6,0,Vital Signs Monitor,Community Equipment
+DEV-01017,2,14.1,0,Enteral Feeding Pump,Community Equipment
+DEV-01020,1,22.2,0,ECG Machine,Diagnostics
+DEV-01021,3,32.1,1,Enteral Feeding Pump,Surgical Ward
+DEV-01022,1,7.8,0,Syringe Pump,Maternity
+DEV-01024,1,23.9,0,Infusion Pump,Outpatients
+DEV-01025,1,18.6,0,Infusion Pump,Community Equipment
+DEV-01027,2,30.2,0,Infusion Pump,ICU
+DEV-01028,4,35.5,0,Ventilator,Surgical Ward
+DEV-01029,2,11.5,1,Vital Signs Monitor,Surgical Ward
+DEV-01030,1,12.5,0,ECG Machine,ICU
+DEV-01033,1,3.8,0,Suction Pump,Diagnostics
+DEV-01035,1,7.1,0,Ventilator,Medical Ward
+DEV-01036,1,22.0,0,Neonatal Incubator,Emergency Department
+DEV-01038,1,10.2,0,Patient Monitor,Community Equipment
+DEV-01041,1,9.5,0,Patient Monitor,Surgical Ward
+DEV-01042,2,27.4,1,Infusion Pump,Community Equipment
+DEV-01043,2,16.5,0,Infusion Pump,Outpatients
+DEV-01044,2,41.3,0,Vital Signs Monitor,ICU
+DEV-01045,2,20.0,0,Infusion Pump,Maternity
+DEV-01046,2,39.2,0,Infusion Pump,Medical Ward
+DEV-01047,1,11.1,0,Syringe Pump,Diagnostics
+DEV-01048,1,0.5,0,Infusion Pump,ICU
+DEV-01049,1,8.5,0,Anaesthetic Machine,ICU
+DEV-01051,2,14.3,0,Patient Monitor,Paediatrics
+DEV-01052,3,39.8,1,Suction Pump,Diagnostics
+DEV-01054,2,24.0,0,Syringe Pump,Surgical Ward
+DEV-01055,3,50.1,1,Suction Pump,Paediatrics
+DEV-01056,2,42.5,0,Infusion Pump,ICU
+DEV-01059,2,27.0,1,Vital Signs Monitor,Diagnostics
+DEV-01061,2,19.200000000000003,0,Syringe Pump,ICU
+DEV-01063,2,15.399999999999999,0,Vital Signs Monitor,Surgical Ward
+DEV-01065,2,15.399999999999999,0,Infusion Pump,Emergency Department
+DEV-01066,2,11.0,0,Syringe Pump,Paediatrics
+DEV-01067,1,6.6,0,Suction Pump,Diagnostics
+DEV-01068,2,36.8,0,Vital Signs Monitor,Emergency Department
+DEV-01069,1,3.9,0,Ultrasound,Emergency Department
+DEV-01070,1,7.0,0,Neonatal Incubator,Maternity
+DEV-01071,2,14.4,0,ECG Machine,Outpatients
+DEV-01072,1,4.0,0,Patient Monitor,Operating Theatres
+DEV-01073,1,5.8,0,Infusion Pump,Maternity
+DEV-01075,1,33.4,0,Anaesthetic Machine,Community Equipment
+DEV-01076,1,4.2,0,Ventilator,Operating Theatres
+DEV-01080,2,17.200000000000003,1,Ventilator,Surgical Ward
+DEV-01082,1,10.0,0,Vital Signs Monitor,Surgical Ward
+DEV-01083,3,28.299999999999997,0,ECG Machine,Maternity
+DEV-01084,1,22.7,0,Patient Monitor,Community Equipment
+DEV-01087,3,34.1,0,Syringe Pump,Operating Theatres
+DEV-01090,2,19.9,0,Suction Pump,Community Equipment
+DEV-01096,1,7.5,0,Ventilator,Surgical Ward
+DEV-01097,2,32.099999999999994,0,Infusion Pump,Outpatients
+DEV-01098,2,19.5,0,Vital Signs Monitor,Surgical Ward
+DEV-01099,1,21.8,0,Enteral Feeding Pump,Surgical Ward
+DEV-01100,2,29.299999999999997,0,Infusion Pump,Medical Ward
+DEV-01101,1,14.5,0,Vital Signs Monitor,Medical Ward
+DEV-01102,4,73.1,1,Vital Signs Monitor,Medical Ward
+DEV-01104,1,3.5,0,ECG Machine,Diagnostics
+DEV-01105,1,15.8,0,Vital Signs Monitor,ICU
+DEV-01106,2,12.7,0,Infusion Pump,Diagnostics
+DEV-01108,2,26.9,0,Patient Monitor,Maternity
+DEV-01109,2,8.5,1,Ventilator,Outpatients
+DEV-01111,2,4.5,0,Anaesthetic Machine,Community Equipment
+DEV-01112,1,10.0,0,Ventilator,Surgical Ward
+DEV-01113,2,23.3,0,Syringe Pump,Outpatients
+DEV-01115,2,26.400000000000002,0,Neonatal Incubator,Paediatrics
+DEV-01116,2,12.3,0,Enteral Feeding Pump,Community Equipment
+DEV-01118,2,32.0,0,Ultrasound,Medical Ward
+DEV-01121,2,27.6,0,Infusion Pump,Community Equipment
+DEV-01124,1,9.1,0,Vital Signs Monitor,ICU
+DEV-01125,1,0.5,0,ECG Machine,Surgical Ward
+DEV-01127,5,76.3,1,ECG Machine,ICU
+DEV-01128,1,18.0,0,ECG Machine,Community Equipment
+DEV-01130,1,7.3,0,Vital Signs Monitor,Surgical Ward
+DEV-01132,1,25.1,0,Vital Signs Monitor,Emergency Department
+DEV-01133,2,28.6,1,Suction Pump,Outpatients
+DEV-01134,2,22.0,0,ECG Machine,Operating Theatres
+DEV-01138,1,15.1,0,Defibrillator,Operating Theatres
+DEV-01139,1,29.4,0,Vital Signs Monitor,Surgical Ward
+DEV-01145,1,7.5,0,Patient Monitor,Community Equipment
+DEV-01146,2,25.2,0,Enteral Feeding Pump,Medical Ward
+DEV-01147,2,16.1,0,Patient Monitor,Maternity
+DEV-01150,1,0.8,0,Vital Signs Monitor,ICU
+DEV-01151,2,21.0,0,Patient Monitor,Outpatients
+DEV-01152,1,4.3,0,Enteral Feeding Pump,Paediatrics
+DEV-01154,1,11.7,0,Neonatal Incubator,Paediatrics
+DEV-01155,1,13.5,0,Ventilator,Medical Ward
+DEV-01156,1,4.7,0,Defibrillator,Medical Ward
+DEV-01157,4,42.6,1,Enteral Feeding Pump,Diagnostics
+DEV-01160,2,7.5,0,Syringe Pump,Emergency Department
+DEV-01161,2,13.7,0,Infusion Pump,Surgical Ward
+DEV-01163,1,25.4,0,Infusion Pump,Outpatients
+DEV-01164,2,27.9,0,Enteral Feeding Pump,Community Equipment
+DEV-01167,1,19.1,0,Ventilator,Maternity
+DEV-01168,2,27.1,0,Ventilator,Maternity
+DEV-01172,2,26.400000000000002,0,Vital Signs Monitor,Medical Ward
+DEV-01174,1,6.0,0,Vital Signs Monitor,Outpatients
+DEV-01175,1,24.0,0,Vital Signs Monitor,Medical Ward
+DEV-01178,1,4.8,0,Infusion Pump,Medical Ward
+DEV-01179,3,24.9,2,ECG Machine,ICU
+DEV-01182,1,3.2,0,Enteral Feeding Pump,Diagnostics
+DEV-01183,3,73.9,1,Ventilator,Maternity
+DEV-01184,2,17.9,0,Anaesthetic Machine,Operating Theatres
+DEV-01185,1,3.0,0,Ventilator,Community Equipment
+DEV-01186,4,47.0,2,Ultrasound,Surgical Ward
+DEV-01188,1,16.5,0,Suction Pump,Maternity
+DEV-01189,1,22.9,0,Patient Monitor,Medical Ward
+DEV-01190,2,33.8,1,Vital Signs Monitor,Outpatients
+DEV-01191,2,12.0,0,Ventilator,Surgical Ward
+DEV-01192,1,8.6,0,Anaesthetic Machine,Emergency Department
+DEV-01193,2,32.1,1,Patient Monitor,Medical Ward
+DEV-01194,2,24.5,0,Patient Monitor,Emergency Department
+DEV-01200,2,12.8,1,Neonatal Incubator,ICU

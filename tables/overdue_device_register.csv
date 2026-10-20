@@ -1,0 +1,254 @@
+device_id,device_type,department,clinical_criticality,pm_overdue_days,last_pm_date,next_pm_due,pm_date_source,pm_date_assumed
+DEV-00504,Syringe Pump,Paediatrics,Critical,248,2025-05-29,2025-11-25,Inventory register (later than log),False
+DEV-00397,Syringe Pump,Operating Theatres,Critical,242,2025-06-04,2025-12-01,Inventory register (later than log),False
+DEV-00745,Anaesthetic Machine,Emergency Department,Critical,235,2025-06-11,2025-12-08,Inventory register (later than log),False
+DEV-00332,Ventilator,Paediatrics,Critical,228,2025-06-18,2025-12-15,Inventory register (later than log),False
+DEV-01089,Infusion Pump,Emergency Department,Critical,221,2025-06-25,2025-12-22,Inventory register (later than log),False
+DEV-00849,Defibrillator,Diagnostics,Critical,206,2025-07-10,2026-01-06,Maintenance log,False
+DEV-00517,Infusion Pump,ICU,Critical,202,2025-07-14,2026-01-10,Inventory register (later than log),False
+DEV-01131,Infusion Pump,Operating Theatres,Critical,196,2025-07-20,2026-01-16,Inventory register (no PM in log),False
+DEV-00331,Defibrillator,Surgical Ward,Critical,194,2025-07-22,2026-01-18,Inventory register (later than log),False
+DEV-00398,Anaesthetic Machine,Operating Theatres,Critical,191,2025-07-25,2026-01-21,Inventory register (later than log),False
+DEV-00408,Anaesthetic Machine,Diagnostics,Critical,184,2025-08-01,2026-01-28,Maintenance log,False
+DEV-01024,Infusion Pump,Outpatients,Critical,176,2025-08-09,2026-02-05,Maintenance log,False
+DEV-01051,Patient Monitor,Paediatrics,Critical,174,2025-08-11,2026-02-07,Inventory register (later than log),False
+DEV-00016,Infusion Pump,Emergency Department,Critical,166,2025-08-19,2026-02-15,Maintenance log,False
+DEV-00860,Anaesthetic Machine,Maternity,Critical,151,2025-09-03,2026-03-02,Inventory register (later than log),False
+DEV-00451,Infusion Pump,Paediatrics,Critical,148,2025-09-06,2026-03-05,Inventory register (later than log),False
+DEV-00809,Infusion Pump,Maternity,Critical,145,2025-09-09,2026-03-08,Inventory register (later than log),False
+DEV-00036,Defibrillator,Diagnostics,Critical,137,2025-09-17,2026-03-16,Inventory register (later than log),False
+DEV-00787,Defibrillator,Diagnostics,Critical,135,2025-09-19,2026-03-18,Inventory register (later than log),False
+DEV-01031,Patient Monitor,Paediatrics,Critical,132,2025-09-22,2026-03-21,Inventory register (later than log),False
+DEV-00022,Infusion Pump,Diagnostics,Critical,127,2025-09-27,2026-03-26,Maintenance log,False
+DEV-00925,Infusion Pump,Surgical Ward,Critical,127,2025-09-27,2026-03-26,Maintenance log,False
+DEV-00444,Syringe Pump,Medical Ward,Critical,125,2025-09-29,2026-03-28,Inventory register (no PM in log),False
+DEV-00385,Infusion Pump,Emergency Department,Critical,122,2025-10-02,2026-03-31,Inventory register (later than log),False
+DEV-00112,Syringe Pump,Surgical Ward,Critical,120,2025-10-04,2026-04-02,Inventory register (later than log),False
+DEV-00452,Anaesthetic Machine,Community Equipment,Critical,119,2025-10-05,2026-04-03,Maintenance log,False
+DEV-00929,Anaesthetic Machine,Outpatients,Critical,116,2025-10-08,2026-04-06,Inventory register (later than log),False
+DEV-01107,Anaesthetic Machine,Surgical Ward,Critical,115,2025-10-09,2026-04-07,Maintenance log,False
+DEV-00355,Ventilator,Emergency Department,Critical,112,2025-10-12,2026-04-10,Inventory register (later than log),False
+DEV-00013,Syringe Pump,Surgical Ward,Critical,111,2025-10-13,2026-04-11,Inventory register (later than log),False
+DEV-00029,Defibrillator,Emergency Department,Critical,110,2025-10-14,2026-04-12,Inventory register (later than log),False
+DEV-00851,Ventilator,Emergency Department,Critical,98,2025-10-26,2026-04-24,Inventory register (later than log),False
+DEV-00266,Infusion Pump,Diagnostics,Critical,97,2025-10-27,2026-04-25,Inventory register (later than log),False
+DEV-00693,Defibrillator,Operating Theatres,Critical,93,2025-10-31,2026-04-29,Inventory register (later than log),False
+DEV-00523,Infusion Pump,Outpatients,Critical,91,2025-11-02,2026-05-01,Inventory register (later than log),False
+DEV-00391,Patient Monitor,Outpatients,Critical,90,2025-11-03,2026-05-02,Assumed: commissioning date (no PM record),True
+DEV-00286,Ventilator,ICU,Critical,87,2025-11-06,2026-05-05,Inventory register (later than log),False
+DEV-00039,Patient Monitor,Outpatients,Critical,86,2025-11-07,2026-05-06,Inventory register (later than log),False
+DEV-01072,Patient Monitor,Operating Theatres,Critical,84,2025-11-09,2026-05-08,Maintenance log,False
+DEV-00031,Infusion Pump,Maternity,Critical,83,2025-11-10,2026-05-09,Inventory register (later than log),False
+DEV-00310,Infusion Pump,Outpatients,Critical,80,2025-11-13,2026-05-12,Inventory register (later than log),False
+DEV-00637,Patient Monitor,Community Equipment,Critical,79,2025-11-14,2026-05-13,Inventory register (later than log),False
+DEV-00163,Infusion Pump,Paediatrics,Critical,78,2025-11-15,2026-05-14,Maintenance log,False
+DEV-00788,Syringe Pump,Emergency Department,Critical,75,2025-11-18,2026-05-17,Inventory register (later than log),False
+DEV-01183,Ventilator,Maternity,Critical,72,2025-11-21,2026-05-20,Inventory register (later than log),False
+DEV-00109,Defibrillator,Maternity,Critical,71,2025-11-22,2026-05-21,Inventory register (later than log),False
+DEV-01156,Defibrillator,Medical Ward,Critical,71,2025-11-22,2026-05-21,Maintenance log,False
+DEV-00577,Defibrillator,Outpatients,Critical,70,2025-11-23,2026-05-22,Inventory register (no PM in log),False
+DEV-00352,Defibrillator,Operating Theatres,Critical,67,2025-11-26,2026-05-25,Inventory register (later than log),False
+DEV-01166,Syringe Pump,Surgical Ward,Critical,67,2025-11-26,2026-05-25,Inventory register (later than log),False
+DEV-00114,Infusion Pump,Maternity,Critical,66,2025-11-27,2026-05-26,Inventory register (later than log),False
+DEV-00430,Defibrillator,Outpatients,Critical,65,2025-11-28,2026-05-27,Inventory register (later than log),False
+DEV-00880,Defibrillator,Operating Theatres,Critical,65,2025-11-28,2026-05-27,Inventory register (later than log),False
+DEV-01093,Syringe Pump,Emergency Department,Critical,62,2025-05-30,2026-05-30,Inventory register (later than log),False
+DEV-00050,Syringe Pump,Maternity,Critical,61,2025-05-31,2026-05-31,Inventory register (later than log),False
+DEV-00117,Defibrillator,Emergency Department,Critical,60,2025-06-01,2026-06-01,Inventory register (later than log),False
+DEV-00262,Infusion Pump,ICU,Critical,60,2025-12-03,2026-06-01,Maintenance log,False
+DEV-00365,Defibrillator,Diagnostics,Critical,59,2025-12-04,2026-06-02,Maintenance log,False
+DEV-00005,Infusion Pump,Paediatrics,Critical,55,2025-12-08,2026-06-06,Inventory register (later than log),False
+DEV-00298,Anaesthetic Machine,Outpatients,Critical,53,2025-12-10,2026-06-08,Inventory register (later than log),False
+DEV-00507,Ventilator,Diagnostics,Critical,51,2025-12-12,2026-06-10,Inventory register (later than log),False
+DEV-00649,Defibrillator,Surgical Ward,Critical,51,2025-12-12,2026-06-10,Maintenance log,False
+DEV-00862,Ventilator,Maternity,Critical,51,2025-06-10,2026-06-10,Inventory register (later than log),False
+DEV-01037,Syringe Pump,Operating Theatres,Critical,51,2025-12-12,2026-06-10,Inventory register (later than log),False
+DEV-00175,Infusion Pump,Operating Theatres,Critical,49,2025-12-14,2026-06-12,Maintenance log,False
+DEV-00739,Patient Monitor,Maternity,Critical,49,2025-12-14,2026-06-12,Inventory register (later than log),False
+DEV-00427,Infusion Pump,Emergency Department,Critical,48,2025-12-15,2026-06-13,Maintenance log,False
+DEV-00615,Ventilator,Medical Ward,Critical,47,2025-12-16,2026-06-14,Inventory register (later than log),False
+DEV-00806,Patient Monitor,Operating Theatres,Critical,47,2025-06-14,2026-06-14,Inventory register (later than log),False
+DEV-01138,Defibrillator,Operating Theatres,Critical,39,2025-12-24,2026-06-22,Maintenance log,False
+DEV-00677,Patient Monitor,Medical Ward,Critical,38,2025-12-25,2026-06-23,Maintenance log,False
+DEV-00150,Infusion Pump,Diagnostics,Critical,37,2025-12-26,2026-06-24,Maintenance log,False
+DEV-00344,Neonatal Incubator,Medical Ward,Critical,37,2025-12-26,2026-06-24,Inventory register (later than log),False
+DEV-00943,Ventilator,Community Equipment,Critical,33,2025-12-30,2026-06-28,Inventory register (later than log),False
+DEV-01113,Syringe Pump,Outpatients,Critical,33,2025-06-28,2026-06-28,Inventory register (later than log),False
+DEV-00652,Syringe Pump,Diagnostics,Critical,32,2025-06-29,2026-06-29,Inventory register (later than log),False
+DEV-00424,Defibrillator,Surgical Ward,Critical,29,2026-01-03,2026-07-02,Inventory register (later than log),False
+DEV-00416,Ventilator,Maternity,Critical,27,2026-01-05,2026-07-04,Maintenance log,False
+DEV-01036,Neonatal Incubator,Emergency Department,Critical,26,2026-01-06,2026-07-05,Maintenance log,False
+DEV-01100,Infusion Pump,Medical Ward,Critical,24,2026-01-08,2026-07-07,Inventory register (later than log),False
+DEV-00284,Patient Monitor,Outpatients,Critical,23,2026-01-09,2026-07-08,Inventory register (later than log),False
+DEV-00937,Infusion Pump,Medical Ward,Critical,23,2026-01-09,2026-07-08,Inventory register (later than log),False
+DEV-00442,Syringe Pump,Paediatrics,Critical,22,2026-01-10,2026-07-09,Maintenance log,False
+DEV-00625,Patient Monitor,Emergency Department,Critical,22,2026-01-10,2026-07-09,Inventory register (later than log),False
+DEV-01038,Patient Monitor,Community Equipment,Critical,20,2025-07-11,2026-07-11,Maintenance log,False
+DEV-01111,Anaesthetic Machine,Community Equipment,Critical,20,2026-01-12,2026-07-11,Maintenance log,False
+DEV-00634,Infusion Pump,Emergency Department,Critical,19,2026-01-13,2026-07-12,Inventory register (later than log),False
+DEV-00893,Ventilator,Outpatients,Critical,19,2026-01-13,2026-07-12,Inventory register (later than log),False
+DEV-00381,Syringe Pump,Community Equipment,Critical,17,2026-01-15,2026-07-14,Inventory register (no PM in log),False
+DEV-00313,Patient Monitor,Operating Theatres,Critical,16,2026-01-16,2026-07-15,Inventory register (later than log),False
+DEV-00597,Syringe Pump,Maternity,Critical,16,2026-01-16,2026-07-15,Inventory register (later than log),False
+DEV-01050,Infusion Pump,Operating Theatres,Critical,14,2026-01-18,2026-07-17,Inventory register (later than log),False
+DEV-00941,Patient Monitor,Surgical Ward,Critical,13,2025-07-18,2026-07-18,Inventory register (later than log),False
+DEV-00833,Infusion Pump,Outpatients,Critical,9,2025-07-22,2026-07-22,Maintenance log,False
+DEV-00412,Defibrillator,Paediatrics,Critical,7,2026-01-25,2026-07-24,Maintenance log,False
+DEV-00696,Anaesthetic Machine,Operating Theatres,Critical,4,2026-01-28,2026-07-27,Inventory register (later than log),False
+DEV-00750,Patient Monitor,Emergency Department,Critical,3,2026-01-29,2026-07-28,Maintenance log,False
+DEV-01123,Defibrillator,Medical Ward,Critical,1,2026-01-31,2026-07-30,Maintenance log,False
+DEV-00755,Patient Monitor,Community Equipment,High,246,2025-05-31,2025-11-27,Inventory register (later than log),False
+DEV-00357,ECG Machine,Surgical Ward,High,241,2025-06-05,2025-12-02,Inventory register (later than log),False
+DEV-00401,ECG Machine,Medical Ward,High,233,2025-06-13,2025-12-10,Inventory register (later than log),False
+DEV-01129,Neonatal Incubator,Paediatrics,High,231,2025-06-15,2025-12-12,Inventory register (later than log),False
+DEV-00784,Suction Pump,Operating Theatres,High,230,2025-06-16,2025-12-13,Inventory register (later than log),False
+DEV-00950,Ultrasound,Community Equipment,High,230,2025-06-16,2025-12-13,Maintenance log,False
+DEV-00852,Ultrasound,Medical Ward,High,229,2025-06-17,2025-12-14,Inventory register (later than log),False
+DEV-00144,Vital Signs Monitor,Paediatrics,High,217,2025-06-29,2025-12-26,Maintenance log,False
+DEV-00269,Patient Monitor,Emergency Department,High,210,2025-07-06,2026-01-02,Inventory register (later than log),False
+DEV-01074,Suction Pump,Operating Theatres,High,203,2025-07-13,2026-01-09,Inventory register (later than log),False
+DEV-00567,Suction Pump,Maternity,High,202,2025-07-14,2026-01-10,Inventory register (no PM in log),False
+DEV-00334,Vital Signs Monitor,Maternity,High,199,2025-07-17,2026-01-13,Inventory register (later than log),False
+DEV-00900,Patient Monitor,Diagnostics,High,197,2025-07-19,2026-01-15,Inventory register (later than log),False
+DEV-00879,Syringe Pump,Outpatients,High,196,2025-07-20,2026-01-16,Inventory register (later than log),False
+DEV-00979,Infusion Pump,Medical Ward,High,195,2025-07-21,2026-01-17,Inventory register (later than log),False
+DEV-00341,Suction Pump,Outpatients,High,193,2025-07-23,2026-01-19,Inventory register (later than log),False
+DEV-00897,Infusion Pump,Medical Ward,High,177,2025-08-08,2026-02-04,Maintenance log,False
+DEV-01025,Infusion Pump,Community Equipment,High,167,2025-08-18,2026-02-14,Maintenance log,False
+DEV-00940,Suction Pump,Medical Ward,High,166,2025-08-19,2026-02-15,Inventory register (later than log),False
+DEV-00102,Syringe Pump,Surgical Ward,High,160,2025-08-25,2026-02-21,Inventory register (later than log),False
+DEV-00619,Patient Monitor,Paediatrics,High,155,2025-08-30,2026-02-26,Inventory register (later than log),False
+DEV-00440,Infusion Pump,Outpatients,High,151,2025-09-03,2026-03-02,Inventory register (later than log),False
+DEV-01026,Vital Signs Monitor,Paediatrics,High,148,2025-09-06,2026-03-05,Inventory register (later than log),False
+DEV-00244,ECG Machine,Paediatrics,High,147,2025-09-07,2026-03-06,Inventory register (later than log),False
+DEV-00724,Suction Pump,Outpatients,High,145,2025-09-09,2026-03-08,Inventory register (later than log),False
+DEV-00304,Ultrasound,Emergency Department,High,144,2025-09-10,2026-03-09,Inventory register (later than log),False
+DEV-00505,Suction Pump,Surgical Ward,High,139,2025-09-15,2026-03-14,Maintenance log,False
+DEV-00568,Patient Monitor,Emergency Department,High,134,2025-09-20,2026-03-19,Inventory register (later than log),False
+DEV-00413,Vital Signs Monitor,Maternity,High,133,2025-09-21,2026-03-20,Inventory register (no PM in log),False
+DEV-00682,Neonatal Incubator,Outpatients,High,132,2025-09-22,2026-03-21,Inventory register (later than log),False
+DEV-00757,Vital Signs Monitor,Paediatrics,High,129,2025-09-25,2026-03-24,Inventory register (later than log),False
+DEV-00188,Patient Monitor,Surgical Ward,High,127,2025-09-27,2026-03-26,Inventory register (later than log),False
+DEV-01176,ECG Machine,ICU,High,124,2025-09-30,2026-03-29,Maintenance log,False
+DEV-00767,Infusion Pump,Community Equipment,High,123,2025-10-01,2026-03-30,Maintenance log,False
+DEV-00180,Ultrasound,ICU,High,121,2025-10-03,2026-04-01,Inventory register (no PM in log),False
+DEV-00464,Suction Pump,Maternity,High,119,2025-10-05,2026-04-03,Inventory register (later than log),False
+DEV-00791,Patient Monitor,Surgical Ward,High,114,2025-10-10,2026-04-08,Assumed: commissioning date (no PM record),True
+DEV-01027,Infusion Pump,ICU,High,113,2025-10-11,2026-04-09,Maintenance log,False
+DEV-00922,Infusion Pump,Paediatrics,High,112,2025-10-12,2026-04-10,Inventory register (later than log),False
+DEV-00558,Enteral Feeding Pump,Operating Theatres,High,105,2025-10-19,2026-04-17,Inventory register (later than log),False
+DEV-01063,Vital Signs Monitor,Surgical Ward,High,105,2025-10-19,2026-04-17,Inventory register (later than log),False
+DEV-00569,Patient Monitor,Outpatients,High,99,2025-10-25,2026-04-23,Maintenance log,False
+DEV-00132,Enteral Feeding Pump,Diagnostics,High,89,2025-11-04,2026-05-03,Inventory register (later than log),False
+DEV-00898,Patient Monitor,ICU,High,88,2025-11-05,2026-05-04,Maintenance log,False
+DEV-01082,Vital Signs Monitor,Surgical Ward,High,84,2025-11-09,2026-05-08,Maintenance log,False
+DEV-00630,Syringe Pump,Surgical Ward,High,83,2025-11-10,2026-05-09,Inventory register (later than log),False
+DEV-00246,Vital Signs Monitor,Medical Ward,High,82,2025-11-11,2026-05-10,Inventory register (later than log),False
+DEV-00689,Vital Signs Monitor,Paediatrics,High,81,2025-11-12,2026-05-11,Inventory register (later than log),False
+DEV-00586,Neonatal Incubator,Maternity,High,80,2025-11-13,2026-05-12,Inventory register (later than log),False
+DEV-00187,Vital Signs Monitor,Emergency Department,High,79,2025-11-14,2026-05-13,Inventory register (later than log),False
+DEV-00437,Infusion Pump,Operating Theatres,High,75,2025-11-18,2026-05-17,Inventory register (later than log),False
+DEV-01045,Infusion Pump,Maternity,High,72,2025-11-21,2026-05-20,Inventory register (no PM in log),False
+DEV-00128,Syringe Pump,Emergency Department,High,71,2025-11-22,2026-05-21,Inventory register (later than log),False
+DEV-00489,Syringe Pump,Medical Ward,High,71,2025-11-22,2026-05-21,Maintenance log,False
+DEV-00161,Syringe Pump,Emergency Department,High,69,2025-11-24,2026-05-23,Inventory register (later than log),False
+DEV-00028,Infusion Pump,Outpatients,High,61,2025-05-31,2026-05-31,Inventory register (later than log),False
+DEV-00232,Infusion Pump,Emergency Department,High,61,2025-05-31,2026-05-31,Inventory register (later than log),False
+DEV-00272,Enteral Feeding Pump,Paediatrics,High,61,2025-12-02,2026-05-31,Inventory register (later than log),False
+DEV-00792,Suction Pump,Diagnostics,High,59,2025-12-04,2026-06-02,Maintenance log,False
+DEV-00315,Infusion Pump,Community Equipment,High,56,2025-12-07,2026-06-05,Inventory register (later than log),False
+DEV-00508,Patient Monitor,Maternity,High,54,2025-12-09,2026-06-07,Inventory register (later than log),False
+DEV-00174,Infusion Pump,Medical Ward,High,50,2025-12-13,2026-06-11,Inventory register (later than log),False
+DEV-00460,Infusion Pump,Maternity,High,47,2025-12-16,2026-06-14,Inventory register (later than log),False
+DEV-00863,ECG Machine,Community Equipment,High,47,2025-12-16,2026-06-14,Maintenance log,False
+DEV-00063,Vital Signs Monitor,Outpatients,High,46,2025-12-17,2026-06-15,Inventory register (later than log),False
+DEV-00141,Patient Monitor,Surgical Ward,High,46,2025-12-17,2026-06-15,Inventory register (later than log),False
+DEV-00160,ECG Machine,Diagnostics,High,43,2025-06-18,2026-06-18,Inventory register (later than log),False
+DEV-00604,Patient Monitor,Operating Theatres,High,43,2025-12-20,2026-06-18,Maintenance log,False
+DEV-00057,Neonatal Incubator,Outpatients,High,42,2025-12-21,2026-06-19,Maintenance log,False
+DEV-00325,Infusion Pump,Outpatients,High,39,2025-12-24,2026-06-22,Inventory register (later than log),False
+DEV-00380,Infusion Pump,Surgical Ward,High,39,2025-06-22,2026-06-22,Inventory register (later than log),False
+DEV-00205,Patient Monitor,Operating Theatres,High,38,2025-12-25,2026-06-23,Maintenance log,False
+DEV-01179,ECG Machine,ICU,High,37,2025-12-26,2026-06-24,Maintenance log,False
+DEV-00348,Vital Signs Monitor,Diagnostics,High,36,2025-06-25,2026-06-25,Inventory register (later than log),False
+DEV-00023,Infusion Pump,Operating Theatres,High,33,2025-06-28,2026-06-28,Inventory register (later than log),False
+DEV-00090,Infusion Pump,Emergency Department,High,31,2025-06-30,2026-06-30,Inventory register (later than log),False
+DEV-00251,Ultrasound,Surgical Ward,High,30,2026-01-02,2026-07-01,Inventory register (later than log),False
+DEV-00400,Neonatal Incubator,Maternity,High,27,2026-01-05,2026-07-04,Inventory register (later than log),False
+DEV-00705,Vital Signs Monitor,Outpatients,High,27,2025-07-04,2026-07-04,Inventory register (later than log),False
+DEV-01160,Syringe Pump,Emergency Department,High,26,2026-01-06,2026-07-05,Maintenance log,False
+DEV-00373,Enteral Feeding Pump,Diagnostics,High,25,2026-01-07,2026-07-06,Maintenance log,False
+DEV-00616,Suction Pump,Diagnostics,High,25,2025-07-06,2026-07-06,Inventory register (later than log),False
+DEV-00037,Neonatal Incubator,Surgical Ward,High,24,2025-07-07,2026-07-07,Inventory register (later than log),False
+DEV-00810,Patient Monitor,Outpatients,High,24,2026-01-08,2026-07-07,Inventory register (later than log),False
+DEV-00202,Neonatal Incubator,Outpatients,High,23,2026-01-09,2026-07-08,Maintenance log,False
+DEV-01018,Syringe Pump,Maternity,High,22,2025-07-09,2026-07-09,Maintenance log,False
+DEV-00085,Infusion Pump,Outpatients,High,18,2026-01-14,2026-07-13,Inventory register (later than log),False
+DEV-00076,Neonatal Incubator,Surgical Ward,High,17,2026-01-15,2026-07-14,Maintenance log,False
+DEV-00845,Patient Monitor,Medical Ward,High,17,2026-01-15,2026-07-14,Maintenance log,False
+DEV-00831,Suction Pump,Diagnostics,High,15,2026-01-17,2026-07-16,Inventory register (later than log),False
+DEV-00813,Ultrasound,ICU,High,12,2025-07-19,2026-07-19,Inventory register (later than log),False
+DEV-00212,Infusion Pump,Outpatients,High,6,2025-07-25,2026-07-25,Inventory register (later than log),False
+DEV-00571,Neonatal Incubator,Diagnostics,High,6,2026-01-26,2026-07-25,Inventory register (later than log),False
+DEV-00890,Patient Monitor,Surgical Ward,High,4,2025-07-27,2026-07-27,Inventory register (later than log),False
+DEV-00226,ECG Machine,Surgical Ward,High,3,2026-01-29,2026-07-28,Inventory register (later than log),False
+DEV-00668,Enteral Feeding Pump,Maternity,High,3,2026-01-29,2026-07-28,Maintenance log,False
+DEV-00695,Infusion Pump,ICU,High,1,2026-01-31,2026-07-30,Maintenance log,False
+DEV-01070,Neonatal Incubator,Maternity,High,1,2025-07-30,2026-07-30,Inventory register (later than log),False
+DEV-01151,Patient Monitor,Outpatients,High,1,2026-01-31,2026-07-30,Inventory register (later than log),False
+DEV-01177,Suction Pump,Paediatrics,High,1,2026-01-31,2026-07-30,Inventory register (later than log),False
+DEV-00664,ECG Machine,Paediatrics,Medium,246,2025-05-31,2025-11-27,Inventory register (later than log),False
+DEV-00002,Enteral Feeding Pump,Community Equipment,Medium,232,2025-06-14,2025-12-11,Inventory register (later than log),False
+DEV-00289,Enteral Feeding Pump,Paediatrics,Medium,225,2025-06-21,2025-12-18,Inventory register (later than log),False
+DEV-00771,Vital Signs Monitor,Medical Ward,Medium,225,2025-06-21,2025-12-18,Maintenance log,False
+DEV-00928,Ultrasound,Medical Ward,Medium,205,2025-07-11,2026-01-07,Maintenance log,False
+DEV-00679,ECG Machine,Diagnostics,Medium,201,2025-07-15,2026-01-11,Maintenance log,False
+DEV-00181,Suction Pump,ICU,Medium,195,2025-07-21,2026-01-17,Inventory register (later than log),False
+DEV-00034,Suction Pump,Outpatients,Medium,190,2025-07-26,2026-01-22,Inventory register (later than log),False
+DEV-00904,Vital Signs Monitor,Medical Ward,Medium,186,2025-07-30,2026-01-26,Inventory register (later than log),False
+DEV-00790,Ultrasound,Emergency Department,Medium,176,2025-08-09,2026-02-05,Maintenance log,False
+DEV-01165,ECG Machine,Maternity,Medium,172,2025-08-13,2026-02-09,Maintenance log,False
+DEV-00885,Ultrasound,Emergency Department,Medium,168,2025-08-17,2026-02-13,Assumed: commissioning date (no PM record),True
+DEV-01190,Vital Signs Monitor,Outpatients,Medium,149,2025-09-05,2026-03-04,Inventory register (later than log),False
+DEV-00278,Enteral Feeding Pump,Medical Ward,Medium,145,2025-09-09,2026-03-08,Maintenance log,False
+DEV-00994,Enteral Feeding Pump,Operating Theatres,Medium,137,2025-09-17,2026-03-16,Maintenance log,False
+DEV-00044,Vital Signs Monitor,Emergency Department,Medium,134,2025-09-20,2026-03-19,Inventory register (later than log),False
+DEV-00308,ECG Machine,Community Equipment,Medium,132,2025-09-22,2026-03-21,Maintenance log,False
+DEV-00699,Enteral Feeding Pump,Operating Theatres,Medium,122,2025-10-02,2026-03-31,Inventory register (later than log),False
+DEV-00309,Suction Pump,Paediatrics,Medium,118,2025-10-06,2026-04-04,Inventory register (later than log),False
+DEV-00311,Ultrasound,Community Equipment,Medium,111,2025-10-13,2026-04-11,Inventory register (later than log),False
+DEV-00973,Ultrasound,Outpatients,Medium,108,2025-10-16,2026-04-14,Inventory register (later than log),False
+DEV-00603,Suction Pump,ICU,Medium,107,2025-10-17,2026-04-15,Inventory register (later than log),False
+DEV-00589,Ultrasound,Surgical Ward,Medium,96,2025-10-28,2026-04-26,Maintenance log,False
+DEV-01182,Enteral Feeding Pump,Diagnostics,Medium,96,2025-10-28,2026-04-26,Inventory register (later than log),False
+DEV-00111,Vital Signs Monitor,Emergency Department,Medium,95,2025-10-29,2026-04-27,Maintenance log,False
+DEV-00146,Suction Pump,Maternity,Medium,95,2025-10-29,2026-04-27,Inventory register (later than log),False
+DEV-00432,ECG Machine,ICU,Medium,93,2025-10-31,2026-04-29,Maintenance log,False
+DEV-00635,Enteral Feeding Pump,Community Equipment,Medium,93,2025-10-31,2026-04-29,Inventory register (later than log),False
+DEV-00977,Vital Signs Monitor,Diagnostics,Medium,86,2025-11-07,2026-05-06,Inventory register (later than log),False
+DEV-00816,Suction Pump,Community Equipment,Medium,82,2025-11-11,2026-05-10,Maintenance log,False
+DEV-00596,Suction Pump,Diagnostics,Medium,81,2025-11-12,2026-05-11,Inventory register (later than log),False
+DEV-00390,Vital Signs Monitor,Emergency Department,Medium,80,2025-11-13,2026-05-12,Inventory register (later than log),False
+DEV-01102,Vital Signs Monitor,Medical Ward,Medium,73,2025-11-20,2026-05-19,Maintenance log,False
+DEV-00968,Vital Signs Monitor,ICU,Medium,63,2025-11-30,2026-05-29,Maintenance log,False
+DEV-01020,ECG Machine,Diagnostics,Medium,62,2025-05-30,2026-05-30,Inventory register (later than log),False
+DEV-01157,Enteral Feeding Pump,Diagnostics,Medium,61,2025-05-31,2026-05-31,Inventory register (later than log),False
+DEV-00075,ECG Machine,Surgical Ward,Medium,58,2025-12-05,2026-06-03,Maintenance log,False
+DEV-01188,Suction Pump,Maternity,Medium,49,2025-06-12,2026-06-12,Inventory register (later than log),False
+DEV-00902,Vital Signs Monitor,Diagnostics,Medium,48,2025-12-15,2026-06-13,Maintenance log,False
+DEV-01127,ECG Machine,ICU,Medium,46,2025-06-15,2026-06-15,Inventory register (later than log),False
+DEV-00274,ECG Machine,Outpatients,Medium,44,2025-12-19,2026-06-17,Inventory register (later than log),False
+DEV-00609,Suction Pump,Paediatrics,Medium,44,2025-12-19,2026-06-17,Maintenance log,False
+DEV-01059,Vital Signs Monitor,Diagnostics,Medium,41,2025-12-22,2026-06-20,Maintenance log,False
+DEV-00369,Enteral Feeding Pump,Medical Ward,Medium,36,2025-12-27,2026-06-25,Inventory register (later than log),False
+DEV-00617,Suction Pump,Maternity,Medium,35,2025-12-28,2026-06-26,Maintenance log,False
+DEV-01124,Vital Signs Monitor,ICU,Medium,35,2025-06-26,2026-06-26,Assumed: commissioning date (no PM record),True
+DEV-00043,Vital Signs Monitor,Community Equipment,Medium,27,2026-01-05,2026-07-04,Maintenance log,False
+DEV-00663,Suction Pump,Diagnostics,Medium,27,2026-01-05,2026-07-04,Maintenance log,False
+DEV-00185,ECG Machine,Outpatients,Medium,24,2026-01-08,2026-07-07,Inventory register (later than log),False
+DEV-00192,Suction Pump,Paediatrics,Medium,24,2025-07-07,2026-07-07,Inventory register (later than log),False
+DEV-01186,Ultrasound,Surgical Ward,Medium,23,2026-01-09,2026-07-08,Inventory register (later than log),False
+DEV-01017,Enteral Feeding Pump,Community Equipment,Medium,9,2025-07-22,2026-07-22,Inventory register (later than log),False
+DEV-01171,Ultrasound,Medical Ward,Medium,8,2026-01-24,2026-07-23,Inventory register (no PM in log),False
+DEV-00480,Suction Pump,ICU,Medium,5,2025-07-26,2026-07-26,Inventory register (no PM in log),False
+DEV-00867,ECG Machine,Outpatients,Medium,5,2026-01-27,2026-07-26,Inventory register (later than log),False

@@ -1,0 +1,13 @@
+device_type,devices,affected_devices,pct
+Anaesthetic Machine,48,5,10.416666666666666
+Defibrillator,66,16,24.242424242424242
+ECG Machine,88,14,15.909090909090908
+Enteral Feeding Pump,74,15,20.27027027027027
+Infusion Pump,203,45,22.167487684729064
+Neonatal Incubator,62,7,11.290322580645162
+Patient Monitor,136,17,12.5
+Suction Pump,83,12,14.457831325301205
+Syringe Pump,108,20,18.51851851851852
+Ultrasound,83,12,14.457831325301205
+Ventilator,96,15,15.625
+Vital Signs Monitor,153,28,18.30065359477124

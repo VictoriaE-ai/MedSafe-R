@@ -1,0 +1,9 @@
+failure_category,repairs,downtime_hours
+Power/Battery,265,3044.3
+Sensor/Measurement,234,2703.1
+Mechanical,217,2612.6
+Software/Firmware,186,2016.2
+Alarm/Display,156,1768.0
+Network/Connectivity,130,1528.9
+Accessory/Consumable,94,1162.6
+No Fault Found,59,706.0

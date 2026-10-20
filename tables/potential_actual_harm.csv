@@ -1,0 +1,5 @@
+potential_harm_level,No harm,Low,Moderate,Severe
+Low,51,10,1,0
+Moderate,70,9,4,0
+High,41,15,4,1
+Critical,13,2,0,2
