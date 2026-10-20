@@ -28,25 +28,43 @@ The planned prototype will connect asset information, maintenance history, opera
 
 The workbook also includes an Excel overview dashboard and an initial heuristic engineering-priority score.
 
+## Completed Analysis
+
+- Cleaned synthetic dataset v1.3, with a data dictionary,
+  change log and documented assumptions.
+- Chart sets covering overdue maintenance, downtime,
+  recurring repairs, maintenance comparisons and safety associations.
+- Transparent engineering-priority heuristic evaluated
+  alongside logistic regression and random forest baselines.
+- Internal cross-validation, uncertainty estimates and
+  evaluation of a fixed 120-device review budget.
+- Reproducible Python analysis, supporting tables,
+  PDF report and offline HTML report.
+
 ## Work in Progress
 
-- Power BI dashboard for device reliability, maintenance and patient-safety indicators.
-- Documentation of the dataset, relationships and analytical methods.
+- Updating the Power BI dashboard to use the corrected
+  dataset and reflect the completed analysis.
+- Final portfolio presentation and documentation review.
 
 ## Planned Development
 
-1. Document and evaluate a transparent device-risk prioritisation approach.
-2. Build and evaluate a predictive-maintenance baseline.
-3. Add explanations showing what drives model predictions.
-4. Explore safety-signal detection and model monitoring.
+1. Add model explanations and assess their stability.
+2. Assess probability calibration and review thresholds
+   against practical maintenance capacity.
+3. Explore safety-signal detection and model monitoring.
+4. Seek clinical-engineering feedback and suitable data
+   for external or prospective validation.
+
+All current results are based on synthetic data.
+The prototype has not been validated for real-world
+clinical or maintenance decisions.
 
 ## Intended Tools
 
 - **Power BI:** interactive dashboards.
 - **Python:** data preparation, analysis and machine learning.
 - **SQL:** data querying and reliability analysis.
-
-Implementation details and results will be added as each stage is completed.
 
 ## Data and Limitations
 
@@ -55,6 +73,7 @@ Dataset v1 is **100% synthetic**. It contains no real patient, hospital, manufac
 Future-event labels are simulated outcomes for model development; they do not demonstrate that a predictive model has been trained. The existing priority score is a heuristic and has not been clinically validated.
 
 This project is for portfolio development and learning. It is not intended for real clinical, regulatory or maintenance decisions.
+
 
 ## Analysis Results — Corrected Dataset v1.3
 
