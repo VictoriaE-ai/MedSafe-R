@@ -56,6 +56,60 @@ Future-event labels are simulated outcomes for model development; they do not de
 
 This project is for portfolio development and learning. It is not intended for real clinical, regulatory or maintenance decisions.
 
+## Analysis Results — Corrected Dataset v1.3
+
+The completed exploratory analysis covers:
+
+- Overdue preventive maintenance.
+- Downtime and recurring corrective repairs.
+- Maintenance needs across device types and departments.
+- Associations between reliability indicators and simulated safety events.
+- Predictive-maintenance baseline models.
+
+### Key Findings
+
+- **253 of 1,200 devices (21.1%)** have overdue preventive maintenance, using the documented inventory-date assumptions.
+- Corrective repairs account for **76.3%** of recorded maintenance downtime.
+- **223 simulated safety events** affect **206 distinct devices**.
+- Failure-label ROC AUC is approximately **0.68 for random forest**, compared with **0.70 for the engineering heuristic**.
+
+These results describe synthetic data. They do not establish real-world predictive performance or patient-safety benefits.
+
+### Chart Preview
+
+![Overdue preventive maintenance analysis](charts/01_overdue_pm.png)
+
+![Downtime and recurring repairs](charts/02_downtime_recurrence.png)
+
+### Reports and Supporting Files
+
+- [Download the chart report](MedSafe_R_Chart_Report.pdf)
+- [Download the offline HTML report](MedSafe_R_Analysis.html)
+- [View all chart sets](charts/)
+- [View supporting tables](tables/)
+- [View the Python analysis](analysis.py)
+- [View the corrected dataset](data/MedSafe_R_Dataset_v1.3_cleaned.xlsx)
+
+Download the HTML file and open it in a browser to view the report.
+
+### Reproduce the Analysis
+
+Requires Python 3.11 or later.
+
+    python -m pip install -r requirements.txt
+    python analysis.py
+
+The script reads the corrected workbook from `data/` and regenerates
+the charts, tables, reports and model evaluations.
+
+### Validation Status
+
+Data checks and internal cross-validation are completed.
+External, prospective and real-world validation remain future work.
+
+
+
+
 ## Author
 
 **Victoria Ekweani — VictoryHealth Analytics**
